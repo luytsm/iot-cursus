@@ -18,7 +18,7 @@ defaults:
         controls: true
         progress: true
         slideNumber: false
-        history: false
+        history: true
         keyboard: true
         overview: true
         center: true
