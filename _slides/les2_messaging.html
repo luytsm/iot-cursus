@@ -1,0 +1,173 @@
+---
+title: "Les 2: Talking Things" 
+description: "Communiceren over IoT applicaties"
+reveal:
+---
+<section>
+  <h1>Talking Things</h1>
+</section>
+<section>
+  <h2>IoT Architectuur</h2>
+  <ul>
+    <li>Data Visualisatie</li>
+    <li>Data bewaren en opslaan</li>
+    <li>Communicatie met things</li>
+    <li>Connectie met things</li>
+  </ul>
+</section>
+<section>
+  <h2>IoT Architectuur</h2>
+  <img class="plain" style="background: none; height: 600px" src="img/iot_arch.png" alt="">
+</section>
+<section>
+  <h2>Communicatie Patronen</h2>
+  <img  style="height: 600px;" src="img/iot_communications.png" alt="">
+</section>
+<section>
+  <h2>Requirements</h2>
+  <div style="overflow: hidden; height: 300px;">
+    <div style="float: left; width: 25%; height:60%;">
+      <h6>Loosley Coupled</h6>
+      <img style="background: white;" src="img/distributed.png" alt="">
+    </div>
+    <div style="float: left; width: 25%; height:60%;">
+      <h6>Interoperability</h6>
+      <img style="background: white;" src="img/interop.png" alt="">
+    </div>
+    <div style="float: left; width: 25%; height:60%;">
+      <h6>Scalable</h6>
+      <img style="background: white;" src="img/scalable.png" alt="">
+    </div>
+    <div style="float: left; width: 25%; height:60%;">
+      <h6>Plugable</h6>
+      <img style="background: white;" src="img/plug.png" alt="">
+    </div>
+  </div>
+  <div style="overflow: hidden; height: 300px;">
+    <div style="float: left; width: 33%; height:60%;">
+      <h6>Legacy</h6>
+      <img style="background: white;" src="img/legacy.png" alt="">
+    </div>
+    <div style="float: left; width: 33%; height:60%;">
+      <h6>Robust</h6>
+      <img style="background: white;" src="img/uptime.jpg" alt="">
+    </div>
+    <div style="float: left; width: 33%; height:60%;">
+      <h6>Open</h6>
+      <img style="background: white;" src="img/open.jpg" alt="">
+    </div>
+  </div>
+</section>
+<section>
+  <h2>Use Case: Slimme schakelaar</h2>
+  <ul>
+    <li>Integratie van een slimme schakelaar</li>
+    <li>Slimme schakelaar kan 1 op 1 vervangen worden met bestaande</li>
+    <li>Schakelaar kan remote worden uitgezet</li>
+    <li>Actuator agnostiek</li>
+    <li>Groot gebouw: ± 1000 devices </li>
+  </ul>
+</section>
+<section>
+  <h3><a target="_blank" href="https://padlet.com/luyts_m/hjq86kh93qq4">Wat denk jij?</a></h3>
+</section>
+<section>
+  <h3>Hoe oplossen?</h3>
+  <h1>Message Oriented Middleware</h1>
+</section>
+<section>
+  <h2>Message Oriented Middleware</h2>
+  <ul>
+    <li>Extra laag in het systeem</li>
+    <li>Zorgt voor de routing</li>
+    <li>Asynchroon</li>
+    <li>Niet geschikt voor real time</li>
+    <li>a.k.a. Message Broker</li>
+  </ul>
+</section>
+<section>
+  <h2>Message Brokers</h2>
+  <ul>
+    <li>AMQP</li>
+    <li>XMPP</li>
+    <li>ZeroMQ</li>
+    <li>STOM</li>
+    <li><em><b>MQTT</b></em></li>
+  </ul>
+</section>
+<section>
+  <h2>Message Brokers</h2>
+  <div>
+    <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/760_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"MQTT","geo":"","time":"today 12-m"},{"keyword":"COAP","geo":"","time":"today 12-m"},{"keyword":"ZeroMQ","geo":"","time":"today 12-m"},{"keyword":"XMPP","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%2012-m&q=MQTT,COAP,ZeroMQ,XMPP"}); </script> 
+  </div>
+
+</section>
+<section data-background-image="img/mqtt.png" data-background-size="contain" data-background-color="white"></section>
+<section>
+  <h2>MQTT</h2>
+  <ul>
+    <li>Message Queue Telemetry Transport</li>
+    <li>Publish Subscribe model</li>
+    <li>Topic based</li>
+    <li>TCP/IP Based</li>
+    <li>Lage overhead</li>
+    <li>Functionaliteit</li>
+    <ul>
+      <li>QoS</li>
+      <li>Message Retention</li>
+      <li>Last Will & Testament</li>
+    </ul>
+  </ul>
+</section>
+<section>
+  <h2>Publish Subscribe Pattern</h2>
+  <div style="float:left; width: 35%;">
+    <ul>
+      <li>= Observer Pattern</li>
+      <li>Gang of Four</li>
+      <li>Behavioral Pattern</li>
+      <li>Loosly Coupled</li>
+    </ul>
+  </div>
+  <div style="float:left; width: 65%;">
+    <img src="img/pubsub.png" alt="">
+  </div>
+</section>
+<section>
+  <h2>Topic based</h2>
+  <h1>dit/is/mijn/topic</h1>
+</section>
+<section>
+  <h2>TCP/IP Based</h2>
+  <div style="float:left; width: 35%;">
+    <ul>
+      <li>Applicatie laag</li>
+      <li>Abstractie van data</li>
+      <li>HTTP is document gebaseerd</li>
+    </ul>
+  </div>
+  <div style="float:left; width: 65%;">
+    <img src="img/mqtt_tcpip.png" alt="">
+  </div>
+</section>
+<section>
+  <h2>Lage Overhead</h2>
+  <img src="img/mqtt_header.png" alt="">
+</section>
+<section>
+  <h2>Quality of Service</h2>
+  <img src="img/mqtt_qos.png" alt="">
+</section>
+<section>
+  <h2>Last Will</h2>
+  <img src="img/mqtt_will.png" alt="">
+</section>
+<section>
+  <h2>Retain</h2>
+  <img src="img/mqtt_retain.png" alt="">
+</section>
+<section>
+  <h1>Voorbeelden</h1>
+  <h4><a href="http://m2m.demos.ibm.com/whiteboard/">MQTT Whiteboard</a></h4>
+  <h4><a href="http://starfighter.mybluemix.net/index.html">MQTT Starfighter</a></h4>
+</section>
