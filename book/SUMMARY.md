@@ -1,21 +1,22 @@
-# SUMMARY
+# Summary
 * [Introductie](./README.md)
-* [Projecten](./)
-  * [LoRa Applicatie]
-    * Smart Building
-    * PWO
-    * Energy Logger
-  * [Wireless Signal Logger]
-  * [Low Power Bluetooth]
-  * [Home Automation]
-    * Paraplegic Autologger
-* [Beschrijving ECTS](./beschrijving_ects.md)
-* [Deadlines](deadlines.md)
-* [Deliverables](deliverables.md)
-  * [Analyse]
-  * [Tussentijdse Presentatie]
-  * [Portfolio]
-  * [Finale Presentatie]
-* [Project Tools](project_tools/README.md)
-  * [GitHub](project_tools/github.md)
-  * [ZenHub](project_tools/)
+* [Projecten](./README.md)
+  * [LoRa Applicatie](./README.md)
+    * [Smart Building](./README.md)
+    * [PWO](./README.md)
+    * [Energy Logger](./README.md)
+  * [Wireless Signal Logger](./README.md)
+  * [Low Power Bluetooth](./README.md)
+  * [Home Automation](./README.md)
+    * [Paraplegic Autologger](./README.md)
+* [Beschrijving ECTS](./README.md)
+* [Deadlines](./README.md)
+* [Deliverables](./README.md)
+  * [Analyse](./deliverables/analyse.md)
+  * [Tussentijdse Presentatie](./README.md)
+  * [Portfolio](./README.md)
+  * [Logboek](./README.md)
+  * [Finale Presentatie](./README.md)
+* [Project Tools](./README.md)
+  * [GitHub](./README.md)
+  * [ZenHub](./README.md)
