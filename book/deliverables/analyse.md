@@ -122,6 +122,13 @@ mogelijke product of service markten.
 Hier defineer je een simpele Bill Of Materials.
 
 
+## Indienen van de analyse
+
+De analyse is een deel van jullie portfolio en heeft een placeholder in de
+student repo. De analyse schrijft in een markdown document. Elk andere type
+document word niet verbeterd.
+
+
 
 
 
