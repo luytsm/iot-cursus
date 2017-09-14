@@ -14,7 +14,7 @@
 * [Timing](./timing.md)
 * Deliverables
   * [Analyse](./deliverables/analyse.md)
-  * [Logboek](./README.md)
+  * [Logboek](./deliverables/logboek.md)
   * [Tussentijdse Presentatie](./README.md)
   * [Finale Presentatie](./README.md)
   * [Product](./deliverables/product.md)
