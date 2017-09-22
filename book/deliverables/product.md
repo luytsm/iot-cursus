@@ -6,6 +6,8 @@ gemaakt. We werken in iteratief process dus het kan zijn dat je verschillende
 versie aflevert. Dit kan gaan van een simpele arduino opstelling tot een
 volledige custom printplaat.
 
+Het is de bedoeling dat voor dit vak een custom printplaat maakt.
+
 Het is kritiek voor u punt dat je een werkende versie kan tonen op de
 presentaties die je tijdens het jaar moet geven. Er moet dus gedacht worden aan
 de stabiliteit van het product/prototype. Dit wordt gedaan door maar één

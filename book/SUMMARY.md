@@ -1,6 +1,8 @@
 # Summary
 * [Introductie](./README.md)
+* [Algemene werking](algemene_werking.md)
 * [Projecten](./README.md)
+  * [Drumkit](./projecten/drumkit.md)
   * [LoRa Applicatie](./README.md)
     * [Smart Building](./README.md)
     * [PWO](./README.md)
@@ -15,10 +17,10 @@
 * Deliverables
   * [Analyse](./deliverables/analyse.md)
   * [Logboek](./deliverables/logboek.md)
-  * [Tussentijdse Presentatie](./README.md)
-  * [Finale Presentatie](./README.md)
+  * [Tussentijdse Presentatie](./deliverables/tussentijdse_presentatie.md)
+  * [Finale Presentatie](./deliverables/finale_presentatie.md)
   * [Product](./deliverables/product.md)
-  * [Portfolio](./README.md)
+  * [Portfolio](./deliverables/portfolio.md)
 * [Project Tools](./README.md)
   * [GitHub](./README.md)
   * [ZenHub](./README.md)
