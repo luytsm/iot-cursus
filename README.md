@@ -1,42 +1,15 @@
-# Slide Deck Collections
-Jekyll template to host multiple reveal.js slide decks on GitHub Pages 
+# Introductie
 
-Based upon:
-[jekyll-reveal](https://github.com/jens-na/jekyll-reveal)
+Voor het project vak Internet of Things moet je een hardware project
+realiseren. De focus ligt hier op het draadloos versturen van data die
+afkomstig van sensoren. Het kan ook de andere richting uitgaan, door het
+aansturen van actuatoren. 
 
-## Usage
-
-* Install ruby with package manager
-* Install the bundler gem
-```shell
-gem install bundler
-```
-* Clone with recursive switch:  
-```shell
-  git clone --recursive https://github.com/luytsm/SlideDeckCollections
-```
-* Navigate into directory and install the necessary gems with bundler 
-```shell
-cd SlideDeckCollections
-bundle install 
-```
-* Add slides in `_slides` folder. Only add reveal.js `<section>` 
-* To run locally start jekyll with following command
-```shell
-bundle exec jekyll serve --baseurl ''
-```
-* To publish to github  
-  * Create new repo on github
-  * Change baseurl in `_config.yml`
-  * push cloned repo to github
-
-```shell
-git remote add <remote_name> <link_to_new_github_repo>
-git push -u <remote_name>
-```
-* Enable GitHub Pages on the setting page (Set master branch as source)
-![GitHub Pages Settings](github_pages_settings.png)
+De project werking is gelijkaardig als dat van het vak Smart System. We werken
+terug agile. De grootste verschillen zijn dat er verschillende projecten zijn
+en dat er neer nadruk is op het draadloze aspect. Deze project opdrachten
+moeten met minimaal 3 worden uitgevoerd en maximaal 4 personen. De scope van
+het project is lineair met de groep grote.
 
 
-
-
+Je mag ook een eigen project aanreiken in samenspraak met de docenten. 
