@@ -22,12 +22,24 @@ beginnen is in 4 grote delen ingedeeld. Deze zijn:
 
 Deze delen worden in de volgende stukken nog verder uitgebreid. 
 
+
 ### Het doel van het product
 
 In een 5 tal lijnen schrijven jullie het doel neer van het product dat je gaat
 ontwikkelen. Hier schrijven jullie je top level user story neer. Wat zou jullie
 willen dat eindgebruiker doet met jullie product.. Dit mag beschouwt worden als
 een draft versie voor het abstract van jullie project. 
+
+Als we het doel van dit vak simplistisch voorstellen dan gaan we tijdens dit
+project vak, domme dingen slim maken. We kunnen een slim object definiëren met
+de volgende criteria:
+
+1. Monitoring
+2. Controle
+3. Optimalisatie
+4. Autonomie
+
+Je kan deze criteria gebruiken als leidraad voor je analyse
 
 ### Beschrijving product
 
@@ -121,6 +133,28 @@ mogelijke product of service markten.
 
 Hier defineer je een simpele Bill Of Materials.
 
+### Taakverdeling
+
+In dit stuk van de analyse moet er duidelijk gemaakt worden hoe jullie als
+groep tegelijk aan het project gaan werken. Alle teamleden moeten een evengrote
+bijdrage leveren aan het project. Het word niet getolereerd dat er een student
+de verantwoordelijke is voor de documentatie. Documentatie is geen individuele
+taak maar een team effort. Iedereen moet een technische bijdrage leveren aan
+het project. 
+
+Dit realiseer door het afstemmen van de scope van het project. Dit kan gebeuren
+door een relevant uitbreiding bij op te nemen in het project.
+
+**Als voorbeeld:**
+
+Als voorbeeld nemen we het project voor het opmeten van het energie verbruik in de campus.
+
+Je moet een sensor node maken dat temperatuur en licht log. Dit is werk voor
+een persoon. Het andere teamlid maakt een dashboard, de andere verzorgt het
+netwerk tussen de sensor en de backend server. Er is nog wel een student die
+geen taak heeft. Deze kan dan bv een sensor node ontwikkelen die het opengaan
+en sluiten van een deur registreert. Deze data kan relevant zijn voor het
+vergelijken van de data afkomstig van de sensoren.
 
 ## Indienen van de analyse
 
