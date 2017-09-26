@@ -30,6 +30,14 @@ ontwikkelen. Hier schrijven jullie je top level user story neer. Wat zou jullie
 willen dat eindgebruiker doet met jullie product.. Dit mag beschouwt worden als
 een draft versie voor het abstract van jullie project. 
 
+Je kan deze criteria gebruiken als leidraad voor je analyse
+
+### Beschrijving product
+
+In de korte beschrijving schrijven jullie in dieper detail jullie visie uit
+voor het project. Je mag hier ook ondersteunend materiaal gebruiken(diagrammen,
+schema's, tekeningen).
+
 Als we het doel van dit vak simplistisch voorstellen dan gaan we tijdens dit
 project vak, domme dingen slim maken. We kunnen een slim object definiëren met
 de volgende criteria:
@@ -39,13 +47,7 @@ de volgende criteria:
 3. Optimalisatie
 4. Autonomie
 
-Je kan deze criteria gebruiken als leidraad voor je analyse
-
-### Beschrijving product
-
-In de korte beschrijving schrijven jullie in dieper detail jullie visie uit
-voor het project. Je mag hier ook ondersteunend materiaal gebruiken(diagrammen,
-schema's, tekeningen).
+Je kan je beschrijving met deze 4 punten opbouwen.
 
 De korte beschrijving is minimaal 3000 tekens. 
 
