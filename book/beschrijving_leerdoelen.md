@@ -131,13 +131,30 @@ de analyse staan.
 
 **Valideert het sensor netwerk.**
 De student toont aan dat de data die tussen de verschillende nodes in het
-netwerk effectief verzonden en ontvangen word.
+netwerk effectief verzonden en ontvangen word. In deze stap valideer je een
+volledige multi-node systeem.
+
+|Punt  |Beschrijving     | 
+|---   |                                                                         
+|0 - 2 |De student voorziet geen mechanisme om zijn multi-node systeem te valideren
+|2 - 4 |De student toon aan met metingen dat zijn multi-node systeem werkt;
+|4 - 6 |De student heeft voor verscheiden iteraties van zijn multi-node systeem gevalideerd.
+|6 - 8 |De student voorziet een procedure waar tegen elke iteratie van het multi-node systeem word getest. 
+|8 - 10|De student voorziet een automatische testprocedure voor zijn multi-node systeem.
 
 **Verzamelt de data afkomstig van de sensors.**
 De student verzamelt de data in de nodige datastructuur en op een geschikte
 datahouder. Dit is niet alleen de payload die verzonden worden tussen de
 verschillende devices, het kan ook metadata van de transmissie zijn, m.a.w.
 data die gebruikt kan worden om eventuele niet functionele vereisten te meten. 
+
+|punt  |beschrijving     | 
+|---   |                                                                         
+|0 - 2 |de student verwerkt de data van de sensor niet.
+|2 - 4 |de student verzamelt de data in een tekstbestand.
+|4 - 6 |de student verzamelt de data in een database
+|6 - 8 |de student verzamelt de data in een database en voorziet een dashboard.
+|8 - 10|de student verzamelt en vormt conclusies uit de data.
 
 **Voorziet de nodige technische documentatie**
 
@@ -146,15 +163,39 @@ dit kan gaan van een simpele manual, een simpele test document of een document
 dat beschrijft hoe de backend geconfigureerd is. Met deze documentatie moet een
 andere student het product kunnen dupliceren.
 
+|punt  |beschrijving     | 
+|---   |                                                                         
+|0 - 2 |De student heeft voorziet geen technische documentatie
+|2 - 4 |De student verzamelt de beschikbare documentatie van de gebruikte services en hardware
+|4 - 6 |De student voorziet de nodige commentaren over de werking van het project.
+|6 - 8 |De student schrijft bijhordende handleidingen voor het project
+|8 - 10|Een groep van de volgende jaren kan het project namaken vertrekkende uit de reeds bestaande documentatie.
+
 **Rapporteert de vooruitgang aan de hand van sprintmeetings.**
 De student heeft buiten de de presentaties nog enkele mogelijke feedback
 momenten in de vorm van sprintmeetings. Tijdens dit moment neemt de student de
 verantwoordelijkheid om de vooruitgang te melden aan de docenten. Dit zijn
 reeds ingeplande momenten de studenten mogen dit onderling ook nog organiseren.
 
+|punt  |beschrijving     | 
+|---   |                                                                         
+|0 - 2 |De student heeft voorziet geen technische documentatie
+|2 - 4 |De student verzamelt de beschikbare documentatie van de gebruikte services en hardware
+|4 - 6 |De student voorziet de nodige commentaren over de werking van het project.
+|6 - 8 |De student schrijft bijhordende handleidingen voor het project
+|8 - 10|Een groep van de volgende jaren kan het project namaken vertrekkende uit de reeds bestaande documentatie.
+
 **Verdedigt de resultaten van het project m.b.v. een presentatie.**
 De student moet 2 maal presenteren tijdens het semester, deze momenten gaan
 telkens door in een examenperiode.
+
+|punt  |beschrijving     | 
+|---   |                                                                         
+|0 - 2 |Student heeft geen presentatie
+|2 - 4 |Student geeft een slechte presentatie
+|4 - 6 |De student presenteert op een onduidelijk manier de vooruitgang van zijn project.
+|6 - 8 |De student geeft duidelijk de vooruitgang weer van zijn project 
+|8 - 10|De student geeft buiten het overzicht van de vooruitgang en goed georganiseerde demo.
 
 **Verdedigt de resultaten van het project m.b.v. een portfolio.**
 
@@ -162,16 +203,40 @@ Op het eind van de rit moet de student een gezamelijke project portfolio
 indienen. Dit portfolio is een git repo opgebouwd met een bepaalde folder
 structuur. 
 
+|punt  |beschrijving     | 
+|---   |                                                                         
+|0 - 2 |De student weinig tot geen relevante documenten of broncode in de project repository.
+|2 - 4 |De levert een hoop bestanden op.
+|4 - 6 |De student structureert de broncode op een chaotische manier en voorziet zijn documentatie in .docx bestandem in de project repository.
+|6 - 8 |De student structureert de broncode en voorziet de nodige documentatie in markdown formaat in de project repository.
+|8 - 10|De student levert alle nodige documenten aan in correct formaat op een gestructureerd manier in de project repository.
+
 **Beheert het project met een project management tool.**
 
 De student houdt al zijn werk bij in een scrum board en maakt de nodige notitie
 waarmee hij bewijst wat de student heeft bijgedrage aan het project en hoe hij
 zijn taak heeft opgelost.
 
+|punt  |beschrijving     | 
+|---   |                                                                         
+|0 - 2 |De student voorziet weinig bewijsstukken van een pragmatische aanpak van het project
+|2 - 4 |De student plant de sprints aan de hand van boards.
+|4 - 6 |De student plant de sprints aan de hand van boards en update deze doorheen de sprint.
+|6 - 8 |De student noteer relevante data bij de taken waaraan hij of zij heeft geholpen
+|8 - 10|De student kan bruikbare informatie zoals een burn down chart ui zijn project management tool krijgen.
+
 **Distribueert de software en document met versie controle software.**
 Het portfolio en broncode worden beheert door gebruikt te maken van versie
 controle software. In dit geval maken we gebruik van GitHub Classroom. De
 student wordt beoordeelt op correct gebruik van git. De studenten hanteren
-tijdsen hun project een branching strategie voor het ontwikkelen en testen van
-feautures. 
+tijdens hun project een branching strategie voor het ontwikkelen en testen van
+features. 
+
+|punt  |beschrijving     | 
+|---   |                                                                         
+|0 - 2 |De student upload zijn files via de website van Github.
+|2 - 4 |De student levert de repository op met zaarop weiniig bewerkingen zijn op uitgevoerd.
+|4 - 6 |De student gebruikt zonder regelmaat  gui en/of cli tools om de nodige files toe te voegen of aan te passen in de repository.
+|6 - 8 |De student gebruikt consequent gui en/of cli tools om de nodige files toe te voegen of aan te passen in de repository.
+|8 - 10|De student maakte gebruik van een branching strategie.
 
