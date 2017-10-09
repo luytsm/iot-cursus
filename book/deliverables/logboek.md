@@ -10,6 +10,10 @@ tool. Het enigste wat in het logboek moet staan is:
  * Welk backlog item er is afgewerkt en door wie. 
  * De planning van elk teamlid voor de volgende week.
 
+Het logboek schrijf je in markdown en bewaar je in de volgende locatie in de
+studentrepo: `doc/logs/` en gebruikt de volgende benaming `w1.md`, `w2.md`,
+`w3.md`, ...
+
 **Een voorbeeld:**
 
 ## Logboek Week 3: 
