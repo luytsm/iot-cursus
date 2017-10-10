@@ -57,8 +57,7 @@ De korte beschrijving is minimaal 3000 tekens.
 
 Voor je analyse moet je minimaal 5 user stories uitschrijven zoals gezien tijdens
 de lessen van dhr. Luc Peeters. Je breidt deze user stories uit met engineering
-tasks. Dit zijn kleine maar zeer specifieke deeltaken voor je user story. Je
-schrijft per user story minimaal 10 engineering tasks. Meer info hierover:
+tasks. Dit zijn kleine maar zeer specifieke deeltaken voor je user story. Je voorziet een totaal van 50 engineering tasks verdeelt over al je user stories. Meer info hierover:
 [klik hier](http://xp.c2.com/EngineeringTask.html)
 
 Door de user stories te schrijven heb je de functionele analyse van je product
