@@ -15,6 +15,7 @@
 * Deliverables
   * [Analyse](./deliverables/analyse.md)
   * [Logboek](./deliverables/logboek.md)
+  * [Sprintmeeting](./deliverables/sprintmeeting.md)
   * [Tussentijdse Presentatie](./deliverables/tussentijdse_presentatie.md)
   * [Finale Presentatie](./deliverables/finale_presentatie.md)
   * [Product](./deliverables/product.md)
