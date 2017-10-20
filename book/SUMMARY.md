@@ -1,7 +1,7 @@
 # Summary
 * [Introductie](./README.md)
 * [Algemene werking](algemene_werking.md)
-* [Projecten](./README.md)
+* Projecten
   * [Drumkit](./projecten/drumkit.md)
   * [LoRa](./projecten/lora.md)
   * [Wi-Po](./projecten/wi_po.md)
@@ -9,8 +9,9 @@
   * [Plate Gate](./projecten/plate_gate.md)
   * [Smart Mirror](./projecten/smart_mirror.md)
   * [Home Automation](./projecten/home_auto.md)
-* [Beschrijving leerdoelen](./beschrijving_leerdoelen.md)
-* [Gewicht leerdoelen](./gewicht_leerdoelen.md)
+* [Evaluatie](./evaluatie/README.md)
+  * [Beschrijving leerdoelen](./evaluatie/beschrijving_leerdoelen.md)
+  * [Gewicht leerdoelen](./evaluatie/gewicht_leerdoelen.md)
 * [Timing](./timing.md)
 * Deliverables
   * [Analyse](./deliverables/analyse.md)
