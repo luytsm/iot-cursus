@@ -10,7 +10,7 @@ Dit is de timing die gehanteerd word tijdens het project.
 |M1W4     |                                                                   |
 |M1W5     |Sprintmeeting                                                      |
 |M1W6     |                                                                   |
-|M1EX     |Presentatie                                                        |
+|M1EX     |Sprintmeeting                                                      |
 |M2W1     |                                                                   |
 |M2W2     |                                                                   | 
 |M2W3     |Sprintmeeting                                                      | 
