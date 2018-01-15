@@ -7,7 +7,7 @@
 |4       |  30%|  70%|Ontwerpt een sensor node die een handelingen kan kwantificeren en/of een actuator aanstuurt en verschillende communicatie patronen ondersteund.
 |11      |  30%|  70%|Ontwikkelt een prototype van de sensor node.
 |2       |  30%|  70%|Valideert de werking van het prototype.
-|8       |  30%|  70%|Combineert meerdere sensor nodes in een netwerk. 
+|11      |  30%|  70%|Combineert meerdere sensor nodes in een netwerk. 
 |2       |  30%|  70%|Valideert het sensor netwerk.
 |4       |  30%|  70%|Verzamelt de data afkomstig van de sensors.
 |2       |   0%| 100%|Voorziet de nodige technische documentatie
