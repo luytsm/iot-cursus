@@ -5,16 +5,16 @@ van elektronische en/of ICT-systemen.**
 
 Voor dit leerdoel wordt het analytisch vermogen van de student beoordeelt. De
 student kiest een van de mogelijke project opdrachten uit en maakt hier een
-analyse van. De gegeven projectbeschrijving is zeer minimalistisch en dient
-uitgebreid te worden. 
+analyse van. Analyseer ook de niet functionele paramaters. De gegeven
+projectbeschrijving is zeer minimalistisch en dient uitgebreid te worden.  
 
-|Punt  |Beschrijving     |
-|---   |                                                                         |
-| 1    |Student maakt geen analyse                                               |
-| 2    |Student voorziet summiere analyse                                        |
-| 3    |Student maakt een uitgebreide analyse                                    |
-| 4    |Student maakt een uitgebreide analyse en kan deze mondeling verdedigen  |
-| 5    |Student kan redeneren in het onderwerp en vragen rond het project oplossen |
+|Punt  |Beschrijving                                                                |
+|---   |                                                                            |
+| 1    |Student maakt geen analyse                                                  |
+| 2    |Student voorziet summiere analyse                                           |
+| 3    |Student maakt een uitgebreide analyse                                       |
+| 4    |Student maakt een uitgebreide analyse en kan deze mondeling verdedigen      |
+| 5    |Student kan redeneren in het onderwerp en vragen rond het project oplossen  |
 
 
 **Evalueert het systeem en stuurt het process bij.**
@@ -26,7 +26,7 @@ proces en stuur je bij.
 |Punt  |Beschrijving     | 
 |---   |                                                                         
 | 1    |Student is vastgeroest in zijn eigen manier van werken.
-| 2    |Student verwerkt zijn taken/verantwoordelijkheid
+| 2    |Student verwerkt zijn taken/verantwoordelijkheid. De student eigent zich alle taken toe om controle over het project te behouden. Hierdoor belemmert de student de projectwerking.
 | 3    |Student evalueert elke week mee het project en voorziet opbouwende kritiek
 | 4    |Student respecteert de project werking en neemt initiatief hierin
 | 5    |Student leidt het team en zorgt voor structuur tijdens het project  
@@ -41,7 +41,7 @@ en/of producten geschikt zijn voor te gebruiken in je project.
 |Punt  |Beschrijving     | 
 |---   |                                                                         
 | 1    |Student werkt zonder onderbouwing verder met reeds gekende technologieën 
-| 2    |Student gebruikt vaak gebruikte technologieën in het probleem domein. 
+| 2    |Student gebruikt courante technologieën in het probleem domein. 
 | 3    |Student gebruikt de correcte technologie maar kan zijn keuze niet volledig onderbouwen.
 | 4    |Student voorziet de nodige argumenten waarom de gebruikte technologie de geschikte is.
 | 5    |Student koppel de huidige staat van het project terug en voorziet indien nodig de correcte technologie. 
@@ -91,6 +91,10 @@ De kwaliteit van het prototype bepaalt in grote mate de score van de student en 
 mindere maten de complexiteit. Het prototype moet robuust, simpel te
 assembleren en makkelijk in gebruik zijn. 
 
+De student levert zijn PCB af na controle door de hele project groep. Op deze
+manier is er een kwaliteitscontrole op het eindproduct. Meerdere iteraties van
+hetzelfde design kan leiden tot minpunten.
+
 |Punt  |Beschrijving     | 
 |---   |                                                                         
 | 1    |De student heeft een werkend prototype ontwikkeld op een breadboard
@@ -99,14 +103,33 @@ assembleren en makkelijk in gebruik zijn.
 | 4    |De student heeft een een verfijnde versie ontwikkeld van de zelf ontworpen PCB.
 | 5    |De student heeft een prototype ontwikkeld dat volledig op zich zelf staat.
 
-**Valideert de werking van het prototype.**
+**Ontwikkeld embbed software voor het protype**
 
-De student kan op een consequente manier bewijzen dat het prototype van zijn
-product werkt. . 
 
 |Punt  |Beschrijving     | 
 |---   |                                                                         
-| 1    |De student voorziet geen mechanisme om zijn prototype te valideren
+| 1    |De student maakt alleen maar gebruik van de Arduino en andere beschikbare libraries 
+| 2    |De student levert een gestructueerde broncode af voor het prototype
+| 3    |De student stript de gebruikte libraries en spreekt de microcontroller rechtstreeks aan m.b.v. registers.
+| 4    |De student voort enkele optimalistatie in de code mbt tot de beschikbare resources van het enbedded devices  
+| 5    |De student levert een volledige geoptimaliseerde code in.
+
+
+
+**Valideert de werking van het prototype.**
+
+De student kan op een consequente manier bewijzen dat het prototype van zijn
+product werkt. Enkele tips om dit te kunnen doen:
+- De software heeft een of andere vorm van logging. Al zijn dit maar simpele
+  print statements.
+- De student voorziet meetpunten op de ontworpen printplaten
+- De student kan remote data verzamelen over het systeem
+- Er zijn software test voorzien.
+- Schrijven van een test plan.
+
+|Punt  |Beschrijving     | 
+|---   |                                                                         
+| 1    |De student voorziet een mechanisme om zijn prototype te valideren maar heeft dit niet toegepast
 | 2    |De student toon aan met metingen dat zijn prototype werkt;
 | 3    |De student heeft voor verscheiden iteraties van zijn prototype gevalideerd.
 | 4    |De student voorziet een procedure waar tegen elke iteratie van het project word getest. 
@@ -149,10 +172,10 @@ data die gebruikt kan worden om eventuele niet functionele vereisten te meten.
 
 |punt  |beschrijving     | 
 |---   |                                                                         
-| 1    |de student verwerkt de data van de sensor niet.
-| 2    |de student verzamelt de data in een tekstbestand.
-| 3    |de student verzamelt de data in een database
-| 4    |de student verzamelt de data in een database en voorziet een dashboard.
+| 1    |de student moet nog handmatig een actie uitvoeren voor het opslaan van de data 
+| 2    |de student verzamelt de data automatisch  in een bestand.
+| 3    |de student voorziet een dashboard.
+| 4    |de student verzamelt de data in een database 
 | 5    |de student verzamelt en vormt conclusies uit de data.
 
 **Voorziet de nodige technische documentatie**
@@ -164,8 +187,8 @@ andere student het product kunnen dupliceren.
 
 |punt  |beschrijving     | 
 |---   |                                                                         
-| 1    |De student voorziet geen technische documentatie
-| 2    |De student verzamelt de beschikbare documentatie van de gebruikte services en hardware
+| 1    |De student verzamelt de beschikbare documentatie van de gebruikte services en hardware
+| 2    |De student voorziet links naar de gebruikte informatie bronnen
 | 3    |De student schrijft bijhorende handleidingen voor het project
 | 4    |Een groep van de volgende jaren kan het project namaken vertrekkende uit de reeds bestaande documentatie.
 | 5    |De student voorziet een Instructable voor het project.
@@ -178,7 +201,7 @@ reeds ingeplande momenten de studenten mogen dit onderling ook nog organiseren.
 
 |punt  |beschrijving     | 
 |---   |                                                                         
-| 1    |De student reflecteert niet op de afgelopen sprint.
+| 1    |De student vertelt over zijn gedane werk van vorige sprint
 | 2    |De student plant de volgende sprint
 | 3    |De student reflecteert over de vorige sprint en plant de volgende.
 | 4    |De student reflecteert, plant en brengt mondig verslag uit.
