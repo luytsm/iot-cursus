@@ -6,7 +6,7 @@
 |2       |  50%|  50%|Identificeert de deeltaken van het project en verdeelt het werk.
 |4       |  30%|  70%|Ontwerpt een sensor node die een handelingen kan kwantificeren en/of een actuator aanstuurt en verschillende communicatie patronen ondersteund.
 |8       |  30%|  70%|Ontwikkelt een prototype van de sensor node.
-|8       |  30%|  70%|Ontwikkelt een prototype van de sensor node.
+|8       |  30%|  70%|Ontwikkeld embbeded software voor het protype
 |2       |  30%|  70%|Valideert de werking van het prototype.
 |8       |  30%|  70%|Combineert meerdere sensor nodes in een netwerk. 
 |2       |  30%|  70%|Valideert het sensor netwerk.

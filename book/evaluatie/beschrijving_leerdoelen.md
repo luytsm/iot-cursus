@@ -103,15 +103,15 @@ hetzelfde design kan leiden tot minpunten.
 | 4    |De student heeft een een verfijnde versie ontwikkeld van de zelf ontworpen PCB.
 | 5    |De student heeft een prototype ontwikkeld dat volledig op zich zelf staat.
 
-**Ontwikkeld embbed software voor het protype**
+**Ontwikkeld embbeded software voor het protype**
 
 
 |Punt  |Beschrijving     | 
 |---   |                                                                         
 | 1    |De student maakt alleen maar gebruik van de Arduino en andere beschikbare libraries 
-| 2    |De student levert een gestructueerde broncode af voor het prototype
+| 2    |De student levert een gestructureerde broncode af voor het prototype
 | 3    |De student stript de gebruikte libraries en spreekt de microcontroller rechtstreeks aan m.b.v. registers.
-| 4    |De student voort enkele optimalistatie in de code mbt tot de beschikbare resources van het enbedded devices  
+| 4    |De student voort enkele optimalisatie in de code m.b.t. tot de beschikbare resources van het embedded devices  
 | 5    |De student levert een volledige geoptimaliseerde code in.
 
 
