@@ -6,10 +6,14 @@ Start de presentatie met een demo van het project.
 
 ## Opsommen functionaliteit project
 
-Na de demo vatten jullie de huidige functionaliteit weer van de wagen.Jullie
+Na de demo vatten jullie de huidige functionaliteit weer van de wagen. Jullie
 koppelen dit ook aan de geimplementeerde backlog items. Geef ook duidelijk weer
 wie welke functionaliteit heeft gerealiseerd. Op deze manier tonen jullie aan
 dat er pragmatisch gewerkt is. 
+
+Minimaliseer je prestaties niet, toon duidelijk aan wat je gedaan hebt tijdens
+het jaar. Heb je verschillende prototypes gemaakt, heb enkele testen
+uitgevoerd, zorg ervoor dat er dan notie van is. 
 
 ## Reflectie analyse
 Geef in de presentatie weer wat er allemaal veranderd is vanuit de originele
