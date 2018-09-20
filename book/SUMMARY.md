@@ -2,9 +2,8 @@
 * [Introductie](./README.md)
 * [Algemene werking](algemene_werking.md)
 * Projecten
-  * [Drumkit](./projecten/drumkit.md)
   * [LoRa](./projecten/lora.md)
-  * [Wi-Po](./projecten/wi_po.md)
+  * [Adaptive UI]
   * [Sensor data in VR](./projecten/sensor_vr.md)
   * [Plate Gate](./projecten/plate_gate.md)
   * [Smart Mirror](./projecten/smart_mirror.md)
@@ -14,6 +13,7 @@
   * [Gewicht leerdoelen](./evaluatie/gewicht_leerdoelen.md)
 * [Timing](./timing.md)
 * Deliverables
+  * [Project Verdediging]
   * [Analyse](./deliverables/analyse.md)
   * [Logboek](./deliverables/logboek.md)
   * [Sprintmeeting](./deliverables/sprintmeeting.md)
@@ -22,4 +22,4 @@
   * [Portfolio](./deliverables/portfolio.md)
 * [Project Tools](./README.md)
   * [GitHub](./README.md)
-  * [ZenHub](./README.md)
+  * [Jira](./README.md)
