@@ -17,5 +17,7 @@ Dolly - 2 personen
 Interface - 1,5 personen
 Project Management - 0,5 personen
 
+Er is één persoon vereist die het vak PCB design heeft gevolgd.
+
 ## Inspiratiebronnen
 https://www.gunrun.tv/backpack/
