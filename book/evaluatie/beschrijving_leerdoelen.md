@@ -182,7 +182,7 @@ data die gebruikt kan worden om eventuele niet functionele vereisten te meten.
 
 | Punt | Beschrijving                                                                   |
 | ---  | ---                                                                            |
-| 1    | de student verzamelt geen data van het project                                 |
+| 0    | de student verzamelt geen data van het project                                 |
 | 1    | de student moet nog handmatig een actie uitvoeren voor het opslaan van de data |
 | 2    | de student verzamelt de data automatisch  in een bestand.                      |
 | 3    | de student voorziet een dashboard.                                             |
