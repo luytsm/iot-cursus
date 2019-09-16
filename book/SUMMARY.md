@@ -3,7 +3,7 @@
 * Projecten
   * [IoT in Afrika: Bed Gate](./projecten/africa_bed_gate.md)
   * [IoT in Afrika: Elephant Tracker](./projecten/africa_elephant_tracker.md)
-  * [IoT in Afrila: Labfarm](./projecten/africa_labfarm.md)
+  * [IoT in Africa: Farm Automation](./projecten/africa_labfarm.md)
   * [IoT in Afrika: Medical Delivery](./projecten/africa_medical_delivery.md)
 * [Evaluatie](./evaluatie/evaluatie.md)
   * [Beschrijving leerdoelen](./evaluatie/beschrijving_leerdoelen.md)

@@ -1,6 +1,6 @@
-# IoT in Africa: Labfarm
+# IoT in Africa: Farm automation
 
-Een traktor ikopen buiten budget voor de typisch kleinschalige Afrikaanse Agro
+Een traktor kopen buiten budget voor de typisch kleinschalige Afrikaanse Agro
 activiteit, nogthans zo enige automatisatie meer dan welkom zijn om de
 productiviteit wat op te drijven.
 
@@ -9,14 +9,16 @@ niet gemakkelijk om te concurreren met de marktprijzen gedreven door
 grootschalige industriële landbouw.
 
 
-IoT kan hier te hulp schieten!  Een raspberry-pi, sensoren en actuatoren zijn
-immers al heel wat betaalbaarder dan een traktor of andere landbouw machines.
+Wat de landbouwer hier al zou kunnen helpen is weten welke planten water moeten
+krijgen.  Water is schaars, besproeien kost tijd en water bijhalen gaat niet
+zonder moeite.
 
 
-Onder de prototype-naam LabFarm ga je een volautomatisch pantenbak systeem
-ontwikkelen die bovendien geconnecteerd en schaalbaar is
+De bedoeling is om enkele goedkope vochtsensors te laten melden als de grond te
+droog wordt.  Dat boer moet een kaartje krijgen van z'n velden waar er
+gesproeit moet worden.
 
-In de finale versie kan de landbouwer dan één systeem installeren en vervolgens
-met het geld van de opbrengst telkens één of enkele units toevoegen aan zijn
-labfarm.
+
+Als eventueele uitbreiding kan een drone ingezet worden om de dorstige planten
+te besproeien.
 
