@@ -10,7 +10,7 @@
   * [Gewicht leerdoelen](./evaluatie/gewicht_leerdoelen.md)
 * [Planning](./planning.md)
 * Deliverables
-  * [Analyse](./deliverables/analyse.md)
+  * Analyse
     * [Project Analyse](deliverables/analyse/project_analyse.md)
     * [Marktonderzoek](deliverables/analyse/marktonderzoek.md)
     * [Project Methode](deliverables/analyse/project_methode.md)
