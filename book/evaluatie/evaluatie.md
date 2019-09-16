@@ -7,9 +7,9 @@ Elke week doet het team een sprintmeeting, één iemand is de vaste sprintmaster
 Tijdens de sprintmeetings worden er snapshots genomen van de huidige staat
 van het project. 
 
-In de planning zijn er product release ingepland, waarbij elke groep de
-vooruitgang van hun project komen voorstellen. De juist inhoud van deze product
-kan je [hier](../deliverables/product_release.md) terugvinden. De docenten
+In de planning zijn er tussentijdse rapportages ingepland, waarbij elke groep de
+vooruitgang van hun project komen voorstellen. De juiste inhoud van deze rapportages
+kan je [hier](../deliverables/tussentijdse_presentatie.md) terugvinden. De docenten
 verwerken deze informatie (snapshots met de nodige commentaren) in het document
 [Gewicht leerdoelen](./gewicht_leerdoelen.md) 
   
