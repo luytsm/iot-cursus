@@ -3,9 +3,6 @@
 Op twee momenten evalueren de docenten de studenten. Het eerste moment is na
 de eerste les na de herfstvakantie, het tweede tijdens de finale presentatie.
 
-Er is géén peer-evaluatie tijdens deze cursus doch de prestaties van het team
-zijn niet automatisch ook de punten van elk teamlid. 
-
 Elke week doet het team een sprintmeeting, één iemand is de vaste sprintmaster.
 Tijdens de sprintmeetings worden er snapshots genomen van de huidige staat
 van het project. 

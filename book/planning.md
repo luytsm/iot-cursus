@@ -2,22 +2,22 @@
 
 Dit is de planning die gehanteerd word tijdens het project.
 
-| Week | Beschrijving                                 |
-| ---  | ---                                          |
-| M1W1 | AP Valley                                    |
-| M1W2 | Voorstelling projecten + Verdediging analyse |
-| M1W3 |                                              |
-| M1W4 |                                              |
-| M1W5 | Product Presentation                         |
-| M1W6 |                                              |
-| M1EX | Inhaal les AP Valley + 1ste evaluatie        |
-| M2W1 |                                              |
-| M2W2 | Product Presentation                         |
-| M2W3 |                                              |
-| M2W4 |                                              |
-| M2W5 |                                              |
-| M2W6 | Product Presentation                         |
-| M2W7 | <html>&nbsp</html>                           |
+| Week | Sprint | Beschrijving                                 |
+| ---  | ---    | ---                                          |
+| LW1  | 1      | Voorstelling projecten + Verdediging analyse |
+| LW2  | 1      |                                              |
+| LW3  | 1      |                                              |
+| LW4  | 2      | Tussentijdse rapportage                      |
+| LW5  | 2      |                                              |
+| LW6  | 2      |                                              |
+| LW7  | 3      | Tussentijdse rapportage (Eerste evaluatie)   |
+| LW8  | 3      |                                              |
+| LW9  | 3      |                                              |
+| LW10 | 4      | Tussentijdse rapportage                      |
+| LW11 | 4      |                                              |
+| LW12 | 4      |                                              |
+| LW13 | 4      | Eindrapport + Repo                           |
+
 
 
 

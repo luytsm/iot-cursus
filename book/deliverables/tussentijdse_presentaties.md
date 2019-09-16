@@ -1,4 +1,4 @@
-# Product Release
+# Tussentijdse rapportage
 Tijdens de product release moet je kort de vooruitgang schetsen. Dit doe je
 aan de hand van een demo en een presentatie.
 

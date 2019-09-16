@@ -33,19 +33,6 @@ zoals, servers, databases, dashboards, etc...
 
 Het minimum aantal tekens voor deze tekst is 3000.
 
-
-### Marktonderzoek 
-
-Tijdens Internet of Things gaan we geen nieuwe zaken ontwikkelen maar is het de
-bedoeling om een elektronica project succesvol af te werken en nieuwe skills te
-leren. 
-
-In deze sectie gaan jullie opzoek naar gelijkaardige producten. Je zoekt er
-minimaal 5. Dit mogen ook producten zijn waarvan hun functionaliteit wilt
-toepassen in jullie product. 
-
-Je geeft deze informatie weer in een tabel. 
-
 ### Diagrammen
 Tekst in niet zo overzichtelijk als een diagram. Voorzie de nodige documentatie
 in de vorm van diagram of afbeelding. 
@@ -61,24 +48,61 @@ voorbeeld de algemene architectuur van LoRaWAN.
 
 #### Gedetailleerde diagrammen
 Hieronder vallen de volgende zaken:
-- Flow charts
-- Relationele database schema
-- Blokdiagrama van individuele elementen in de architectuur.
+- **Flow charts**
+  ![Flowchart](../img/flowchart.png)
+- **Relationeel database schema**
+  ![Relationeel Database Schema](../img/database_model.png)
+- **Blokdiagrama van individuele elementen in de architectuur.**
+  ![Blockdiagram](../img/blockdiagram.png)
 - ...
 
+### Marktonderzoek 
+
+Tijdens Internet of Things gaan we geen nieuwe zaken ontwikkelen maar is het de
+bedoeling om een elektronica project succesvol af te werken en nieuwe skills te
+leren. 
+
+In deze sectie gaan jullie opzoek naar gelijkaardige producten. Je zoekt er
+minimaal 5. Dit mogen ook producten zijn waarvan hun functionaliteit wilt
+toepassen in jullie product. 
+
+Je geeft deze informatie weer in een tabel. 
+
+**Een voorbeeld**:
+
+|                       | Click & Grow                              | Niwa                                                        | SproutsIO                                                                                  | Windowfarms                          | GROW duo                                                            |
+| --                    | --                                        | --                                                          | --                                                                                         | --                                   | --                                                                  |
+| Type                  | Binnenhuis smart tuin                     | Binnenhuis groeikast                                        | Binnenhuis smart tuin                                                                      | Binnenhuis tuin                      | Buitenhuis                                                          |
+| Camera                | /                                         | /                                                           | Bovenaan                                                                                   | /                                    | /                                                                   |
+| Sensoren              | /                                         | Omgevingstemperatuur  Omgevingslicht  pH(?)  Waterniveau    | Omgevingstemperatuur  Omgevingslicht  pH(?)  Waterniveau  Geleidbaarheid  Bodemtemperatuur | /                                    | Omgevingstemperatuur  Omgevingslicht  Waterniveau  Bodemtemperatuur |
+| Belichting            | Led op beweegbare arm                     | Led met apart warmte element                                | LED                                                                                        | Natuurlijk Zonlicht                  | Natuurlijk Zonlicht                                                 |
+| App Control           | /                                         | Groeiprofielen  Onderhoud Reminders  Monitoring groeicyclus | Cameracontrol  Realtimedata  Monitoring Groeicyclus                                        | /                                    | Info over tuinieren  Marketplace voor extra zaden                   |
+| Communicatie protocol | /                                         | Wifi                                                        | Wifi                                                                                       | /                                    | /                                                                   |
+| Bodem Type            | "Smart Soil"                              | Anorganisch                                                 | Anorganisch                                                                                | Anorganisch                          | Organisch                                                           |
+| Irrigatie             | Automatisch                               | Hydroponie                                                  | Hydroponie                                                                                 | Hydroponie                           | Sproeiers                                                           |
+| Extra info            | /                                         | /                                                           | /                                                                                          | Verticaal geplaatst                  | Beschikt over "Plant-AI"                                            |
+| Webpagina             | [Klik hier](https://eu.clickandgrow.com/) | [Klik hier](https://eu.clickandgrow.com/)                   | [Klik hier](https://www.sprouts.io/)                                                       | [Klik hier](https://www.sprouts.io/) | [Klik hier](https://www.sprouts.io/)                                |
+
 #### Schema's van het product
-Het is zeker al aan te raden dat er een schema is van het Smart Object. Dit is
-een schema die de aansluitingen van het Smart Object toont.
+Voor de eerste presentatie moet zeker een elektrisch schema hebben. Je moet dus
+in multisim al een schema maken van de eerste versie van de opstelling. (Op
+eigen verantwoordelijkheid mag je ook een ander EDA programma gebruiken.) 
+![Elektrisch schema](../img/example_schematic.png)
 
-Dit kan zo simpel zijn als het volgende:
+**Kijk goed naar het gebruik van Net Labels hier. Dit zorgt voor een proper
+schema, doe dit ook voor jullie schema!**
+
+Een hookup schema voor het eerste prototype is ook aangeraden.
+
 ![Hookup](../img/hookup.png)
-
-**Dit mag al een volledig schema zijn in multisim of ander EDA programma.**
 
 #### Fysiek design (Optioneel)
 Er zijn 2 3D printers ter beschikking. Je mag deze alleen gebruiken als je
 enige ervaring hebt met CAD software. Je mag deze gebruiken om een volledige
 fysiek design van je Smart Object te maken.
+
+**Je mag deze alleen gebruiken als een teamlid tijdens de verdediging,
+competentie aantoont in geschikte CAD software om een 3D print te maken.**
 
 #### Niet functionele analyse 
 
@@ -91,11 +115,6 @@ requirement](https://en.wikipedia.org/wiki/Non-functional_requirement). Kies er
 De niet functionele vereisten van het project zijn niet nodig voor een geslaagd
 project. Ze zijn een leuke extra. Jullie kunnen ze bv uitvoeren wannneer je
 geblokkeerd bent door een medestudent.
-
-
-**Je mag deze alleen gebruiken als een teamlid tijdens de verdediging,
-competentie aantoont in geschikte CAD software om een 3D print te maken.**
-
 
 ## Functionaliteit
 

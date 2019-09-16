@@ -1,3 +1,0 @@
-# Product Presentation 
-
-**TBA**

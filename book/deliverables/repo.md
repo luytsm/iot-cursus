@@ -1,4 +1,4 @@
-# Portfolio
+# Repo
 
 Voor het vak maken we gebruik van GitHub Classroom. Deze repository gebruiken
 we zowel voor het verzamelen van informatie en/of nodige documentatie, als voor
