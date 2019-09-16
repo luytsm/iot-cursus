@@ -5,7 +5,8 @@
 |2       |  70%|  30%|Bepaalt mogelijke oplossingen en maakt onderbouwde keuzes in componenten voor elektronische en/of ICT-systemen, zowel wat hard- als software betreft.
 |2       |  50%|  50%|Identificeert de deeltaken van het project en verdeelt het werk.
 |4       |  30%|  70%|Ontwerpt een sensor node die een handelingen kan kwantificeren en/of een actuator aanstuurt en verschillende communicatie patronen ondersteund.
-|11      |  30%|  70%|Ontwikkelt een prototype van de sensor node.
+|8       |  30%|  70%|Ontwikkelt een prototype van de sensor node.
+|8       |  30%|  70%|Ontwikkeld embbeded software voor het protype
 |2       |  30%|  70%|Valideert de werking van het prototype.
 |11      |  30%|  70%|Combineert meerdere sensor nodes in een netwerk. 
 |2       |  30%|  70%|Valideert het sensor netwerk.
@@ -17,5 +18,5 @@
 |1       |   0%| 100%|Beheert het project met een project management tool.
 |1       |   0%| 100%|Distribueert de software en document met versie controle software.
 
-**Totaaal: 56**
+**Totaaal: 61**
 
