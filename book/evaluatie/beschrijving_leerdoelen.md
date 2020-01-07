@@ -151,7 +151,7 @@ netwerk met elkaar te laten verbinden. Hier moet van het begin van het project
 al rekening mee worden gehouden. Buiten een werkend prototype moet dit ook in
 de analyse staan.
 
-| Punt | Beschrijving                                                                                                                                             | 
+| Punt | Beschrijving                                                                                                                                             |
 | ---  | ---                                                                                                                                                      |
 | 0    | De student heeft een stand alone node                                                                                                                    |
 | 1    | De student heeft dit in het ontwerp voorzien maar heeft dit niet gerealiseerd                                                                            |
@@ -167,9 +167,9 @@ volledige multi-node systeem.
 
 | Punt | Beschrijving                                                                                             |
 | ---  | ---                                                                                                      |
-| 1    | De student voorziet geen mechanisme om zijn multi-node systeem te valideren                              |
+| 0    | De student voorziet geen mechanisme om zijn multi-node systeem te valideren                              |
 | 1    | De student voorziet een mechanisme om zijn multi-node systeem te valideren maar heeft dit niet toegepast |
-
+| 2    | De student voorziet een mechanisme om zijn multi-node systeem te valideren en heeft dit toegepast        |
 | 3    | De student heeft voor verscheiden iteraties van zijn multi-node systeem gevalideerd.                     |
 | 4    | De student voorziet een procedure waar tegen elke iteratie van het multi-node systeem word getest.       |
 | 5    | De student voorziet een automatische testprocedure voor zijn multi-node systeem.                         |
