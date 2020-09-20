@@ -1,4 +1,4 @@
-# Summary
+# Internet of Things
 * [Introductie](./README.md)
 * Projecten
   * [IoT in Afrika: Bed Gate](./projecten/africa_bed_gate.md)
@@ -12,7 +12,6 @@
 * Deliverables
   * Analyse
     * [Project Analyse](deliverables/analyse/project_analyse.md)
-    * [Marktonderzoek](deliverables/analyse/marktonderzoek.md)
     * [Project Methode](deliverables/analyse/project_methode.md)
     * [Verdediging](deliverables/analyse/verdediging.md)
   * [Tussentijdse presentaties](./deliverables/tussentijdse_presentaties.md)
