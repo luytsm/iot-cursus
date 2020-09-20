@@ -1,189 +1,199 @@
-# Analyse
+# Project Analyse 
 
-Voor dat jullie kunnen starten aan een project moet je hiervoor een analyse
-indienen. Deze verdedigen jullie met een presentatie tijdens het voorgestelde
-contact moment. Voor dat je aan het project mag beginnen, moet de analyse
-worden goedgekeurd door de docenten.  
+Net zoals bij Smart Systems werken we met een probleemstelling. Voor Internet
+of Things is deze breder gedefinieerd. Voor een geslaagd project moet je de
+scope van de probleemstelling gaan verkleinen naar een haalbaar project. Dit
+gebeurt in het volgend stuk. Dit proces is essentieel voor een geslaagd project
+en hierdoor is de analyse kritieker dan bij Smart Systems. Ga hier niet te licht
+over!  
 
-De analyse moet grondig worden uitgewerkt. De analyse is een leidraad doorheen
-het project die ervoor zorgt dat er op een efficiënte manier functionaliteit
-wordt gecreëerd.
+Hieronder beschrijven jullie de probleemstelling dat tijdens IoT  word
+behandelt. Voor dit probleem stellen jullie een oplossing voor in de analyse .
 
-Je voegt de analyse toe in jullie studentrepo op de volgende locatie:
-`doc/analyse.md` en schrijft deze in Markdown formaat.
 
-## Functionale analyse project 
+De problemen die opgelost worden tijdens het vak Internet of Things hebben
+meestal als oplossing een Smart Objects gecombineerd met ondersteunende back
+-en frontend. Deze componenten worden in de project analyse gedefinieerd. 
 
-### Beschrijving
-Hieronder beschrijven jullie het project dan jullie gaan uitvoeren doorheen het
-semester. Het doel van een Internet of Things is slim maken van domme objecten.
-Hiervoor moeten we een dom object transformeren in een Smart Object. We kunnen
-een Smart Object definiëren aan de 4 volgende criteria. 
+## Probleemstelling 
+
+Voor deze sectie van de analyse beschrijf je het hoofdprobleem in maximaal 2
+tot 5 zinnen. Daarna deel je het probleem op in minimum 10 delen (Als bulletpoints).    
+
+## Analyse
+
+### Abstract
+
+In het abstract wordt het voorstel tot oplossing beknopt beschreven. Voor dit
+te doen schrijf je een korte tekst van min 250 woorden en max 500 woorden. Dit
+komt neer op halve tot een volle bladzijde. Je ondersteund dit met een diagram
+van de algemene architectuur.
+
+<img style="display:block; margin: auto;" src="../../img/lorawan_architecture.jpg" alt="">
+<p style="text-align: center; font-weight: bold"> Voorbeeld: het diagram van de algemene architectuur van LoRaWAN. </p>
+
+
+### Smart Object (Hardware Analyse)
+
+IoT is een hardware project. De focus ligt op het ontwikkelen van een fysiek
+object. Dit object krijgt prioriteit tijdens dit vak, niet de front end of back
+end die nodig is voor een volwaardige oplossing. De tijd is beperkt dus word er
+een focus gelegd. Dit object uit zich in een Smart Object. Een Smart Object kan
+beschreven worden aan de hand van de 4 volgende criteria. 
 
 1. Monitoring
 2. Controle
 3. Optimalisatie
 4. Autonomie
 
-Probeer jullie Smart Object in jullie project aan deze objecten te staven.
-Doe dit voor elk smart object in jullie project. In de vaknaam komt ook
-internet in voor. Voorzie ook een manier hoe dat jullie connectie gaan opbouwen
-tussen de verschillende Smart Objects en eventueel achterliggende services
-zoals, servers, databases, dashboards, etc...
+De criteria zijn geordend volgens stijgende complexiteit. Monitoring is
+eenvoudiger dan een object volledig autonoom te maken. Hierdoor kan je de
+criteria ook gebruiken als leidraad doorheen het iteratief proces dat we
+gebruiken in IoT. Als je prototype ontwikkelt zorg er eerst voor dat het al
+data kan verzamelen vooraleer dat het volledig autonoom is.
 
-Het minimum aantal tekens voor deze tekst is 3000.
+Aan de hand van bovenstaand criteria wordt er een of meerdere Smart Objects
+gedefinieerd die een oplossing bied voor de probleemstelling in het project. Om
+een geslaagd project moet er meerdere werkende Smart Objects zijn. Dit mogen
+meerdere van hetzelfde type zijn of verschillende soorten objecten. Zo
+vervolledigen jullie het Things gedeelte van IoT. Je moet nog al het
+achterliggende voorzien om deze met Smart Objects met elkaar te laten spreken.
 
-### Diagrammen
-Tekst in niet zo overzichtelijk als een diagram. Voorzie de nodige documentatie
-in de vorm van diagram of afbeelding. 
+Een Smart Object is niet van nature uit een extensie van een bestaand product.
+Het is ook een object dat toegevoegd kan worden aan een bestaand proces.  Jaar
+op jaar worden op de akker groenten geteeld. Hoe kunnen we deze akker slim
+maken? Het is geen fysiek stuk hardware waar we iets aan kunnen toevoegen. Er
+kan wel een Smart Object gebouwd worden dat het landbouw proces optimaliseert. 
 
-**Verzorg deze afbeelding! Denk aan layout, kwaliteit van de afbeeld, crop de
-afbeelding wanneer nodig, etc...**
+Beschrijf in dit deel de nodige Smart Objects voor jullie project. Naast de
+beschrijving voorzie ook het volgende: 
 
-#### Algemene architectuur
-Geef een algemeen overzicht hoe dat de verschillende componenten met elkaar
-spreken. Toon aan op welke draadloze technieken er gebruikt worden. Als
-voorbeeld de algemene architectuur van LoRaWAN.
-![LoRaWAN Architectuur](../img/lorawan_architecture.jpg)
+* Blokdiagram 
+* Specificaties
+* Argumentatie
+* Elektrisch schema
+* State diagram
+* Flowchart
 
-#### Gedetailleerde diagrammen
-Hieronder vallen de volgende zaken:
-- **Flow charts**
-  ![Flowchart](../img/flowchart.png)
-- **Relationeel database schema**
-  ![Relationeel Database Schema](../img/database_model.png)
-- **Blokdiagrama van individuele elementen in de architectuur.**
-  ![Blockdiagram](../img/blockdiagram.png)
-- ...
-
-### Marktonderzoek 
-
-Tijdens Internet of Things gaan we geen nieuwe zaken ontwikkelen maar is het de
-bedoeling om een elektronica project succesvol af te werken en nieuwe skills te
-leren. 
-
-In deze sectie gaan jullie opzoek naar gelijkaardige producten. Je zoekt er
-minimaal 5. Dit mogen ook producten zijn waarvan hun functionaliteit wilt
-toepassen in jullie product. 
-
-Je geeft deze informatie weer in een tabel. 
-
-**Een voorbeeld**:
-
-|                       | Click & Grow                              | Niwa                                                        | SproutsIO                                                                                  | Windowfarms                          | GROW duo                                                            |
-| --                    | --                                        | --                                                          | --                                                                                         | --                                   | --                                                                  |
-| Type                  | Binnenhuis smart tuin                     | Binnenhuis groeikast                                        | Binnenhuis smart tuin                                                                      | Binnenhuis tuin                      | Buitenhuis                                                          |
-| Camera                | /                                         | /                                                           | Bovenaan                                                                                   | /                                    | /                                                                   |
-| Sensoren              | /                                         | Omgevingstemperatuur  Omgevingslicht  pH(?)  Waterniveau    | Omgevingstemperatuur  Omgevingslicht  pH(?)  Waterniveau  Geleidbaarheid  Bodemtemperatuur | /                                    | Omgevingstemperatuur  Omgevingslicht  Waterniveau  Bodemtemperatuur |
-| Belichting            | Led op beweegbare arm                     | Led met apart warmte element                                | LED                                                                                        | Natuurlijk Zonlicht                  | Natuurlijk Zonlicht                                                 |
-| App Control           | /                                         | Groeiprofielen  Onderhoud Reminders  Monitoring groeicyclus | Cameracontrol  Realtimedata  Monitoring Groeicyclus                                        | /                                    | Info over tuinieren  Marketplace voor extra zaden                   |
-| Communicatie protocol | /                                         | Wifi                                                        | Wifi                                                                                       | /                                    | /                                                                   |
-| Bodem Type            | "Smart Soil"                              | Anorganisch                                                 | Anorganisch                                                                                | Anorganisch                          | Organisch                                                           |
-| Irrigatie             | Automatisch                               | Hydroponie                                                  | Hydroponie                                                                                 | Hydroponie                           | Sproeiers                                                           |
-| Extra info            | /                                         | /                                                           | /                                                                                          | Verticaal geplaatst                  | Beschikt over "Plant-AI"                                            |
-| Webpagina             | [Klik hier](https://eu.clickandgrow.com/) | [Klik hier](https://eu.clickandgrow.com/)                   | [Klik hier](https://www.sprouts.io/)                                                       | [Klik hier](https://www.sprouts.io/) | [Klik hier](https://www.sprouts.io/)                                |
-
-#### Schema's van het product
-Voor de eerste presentatie moet zeker een elektrisch schema hebben. Je moet dus
-in multisim al een schema maken van de eerste versie van de opstelling. (Op
-eigen verantwoordelijkheid mag je ook een ander EDA programma gebruiken.) 
-![Elektrisch schema](../img/example_schematic.png)
-
-**Kijk goed naar het gebruik van Net Labels hier. Dit zorgt voor een proper
-schema, doe dit ook voor jullie schema!**
-
-Een hookup schema voor het eerste prototype is ook aangeraden.
-
-![Hookup](../img/hookup.png)
-
-#### Fysiek design (Optioneel)
-Er zijn 2 3D printers ter beschikking. Je mag deze alleen gebruiken als je
-enige ervaring hebt met CAD software. Je mag deze gebruiken om een volledige
-fysiek design van je Smart Object te maken.
-
-**Je mag deze alleen gebruiken als een teamlid tijdens de verdediging,
-competentie aantoont in geschikte CAD software om een 3D print te maken.**
-
-#### Niet functionele analyse 
-
-Maak ook een analyse voor niet functionele vereisten voor het project. Voor
-mogelijke niet functionele requirements verwijs ik jullie door naar wikipedia:
-[Non-functional
-requirement](https://en.wikipedia.org/wiki/Non-functional_requirement). Kies er
-4 uit de mogelijke examples gegeven op de wikipedia pagina en bespreek deze. 
-
-De niet functionele vereisten van het project zijn niet nodig voor een geslaagd
-project. Ze zijn een leuke extra. Jullie kunnen ze bv uitvoeren wannneer je
-geblokkeerd bent door een medestudent.
-
-## Functionaliteit
-
-We maken gebruik van een Agile methode, hierdoor beschrijven we onze
-functionaliteit die we willen toevoegen aan ons project met Epics en User
-Stories. Beide zaken gaan we managen in Jira. Je voorziet minimaal 6 epics met
-elks 8 user stories. 
-
-| Epic          | Epic #1 | Epic #2 | Epic #3 | ... | Epic #N            |
-| ---           | ---     | ---     | ---     | --- | ---                |
-| User Story #1 |         |         |         |     |                    |
-| User Story #2 |         |         |         |     |                    |
-| User Story #3 |         |         |         |     |                    |
-| User Story #4 |         |         |         |     |                    |
-| User Story #5 |         |         |         |     | <html>&nbsp</html> |
-
-Wijs ook een verantwoordelijke toe voor elke epic. Deze epic hoort bij een
-verschillende rol opgenomen door één student. Onder elke epic staat ook een
-user story. Elke user story krijgt story points. Je mag op eigen
-verantwoordelijk ook tasks aanmaken in Jira.
-
-**Deze story points moeten zeker worden toegevoed. Jullie projectperformantie
-word gemeten aan de hand van burndown charts.**
-
-## Release Plan 
-We gaan ons eigen beschermen door voor ons zelf deadlines op te stellen. We
-gaan onze user stories inplannen om het team verantwoordelijk te houden. Er
-zijn 4 releases voorzien doorheen het semester. Zie hiervoor de planning.
-
-![Release Plan](../img/release_plan.png)
-
-## Inventarisatie Hardware
-Sommeer hier de gebruikte hardware die je wilt gebruiken voor jullie project.
-Ligt ook toe waarom elk item geschikt is voor dit project. Vergelijk hiervoor
-ook de mogelijke kandidaten dat dit item kunnen vervangen. 
-
-Lijst hier ook de schemas op de je als inspiratie bron gebruikte voor jullie
-eigen project.
-
-## Inventarisatie Software 
-Sommeer hier de gebruikte software die je wilt gebruiken voor jullie project.
-Ligt ook toe waarom elk item geschikt is voor dit project. Vergelijk hiervoor
-ook de mogelijke kandidaten dat dit item kunnen vervangen. 
+Hieronder kan je een voorbeeld vinden van elk diagram.
 
 
-## Test document
-Maak een lijst van de nodige test die je kan uitvoeren voor het valideren van
-je product. Dit gaat verder dan het schrijven van enkele unit test. Met deze
-testen moet je ook je hardware kunnen valideren. Dit document is een *"Work in
-Progress"*. Hoe verder dat jullie project loopt hoe meer features dat je hebt
-toegevoegd aan je product. Met dit document kan de docent de werking van je
-product valideren.
+#### Blokdiagram
 
-**Kijk zeker de nodige leerdoelen na**
+In het blokdiagram deel je het hardware probleem op in grote delen en kan je zien hoedat ze met elkaar gelinkt zijn.
 
-## Verdediging
-
-Deze analyse wordt verdedigt met een presentatie. De duur en tijdstip van deze
-presentatie word nog meegedeeld.
+<img style="display:block; margin: auto;" src="../../img/basic_block.png" alt="">
+<p style="text-align: center; font-weight: bold"> Voorbeeld: Blok diagram </p>
 
 
-Je voegt de presentatie toe in jullie studentrepo als Powerpoint en PDF. Je
-bewaard de bestanden op de volgende locatie:i `doc/analyse.pptx` en
-`doc/analyse.pdf`
+#### Specificaties
+Voor elke blok in het blok diagram van een Smart Object stel je de
+specificaties en/of elektrische karakteristieken op. Deze worden in het
+volgende formaat meegeven in de analyse.
+
+| Blok           | Specificatie    | Min  | Nominaal | Max    |
+| --             | --              | --   | --       | --     |
+| Motor Power    | Werkspanning    | 7V   | 7.2V     | 7.V    |
+| (Loodbatterij) | Stroom          |      | 500mA    | 2A     |
+|                | Capaciteit      |      | 2700mAh  | &nbsp; |
+| ATmega328p     | F<sub>cpu</sub> |      | 16 MHz   |        |
+|                | Werkspanning    | 4.8V | 5V       | 5.2V   |
+ 
+
+#### Onderliggende argumentatie 
+Voor elk blok van het blokdiagram moet je ook een argumentatie geven waarom deze gebruikt wordt in
+de voorgestelde oplossing in de analyse. Geef ook mogelijke alternatieven. Geef
+deze informatie in het volgend formaat: 
+
+| Blok            | Argumentatie                                                                                                                                                                                                                                   | Alternatieven           |
+| --              | --                                                                                                                                                                                                                                             | --                      |
+| Motor Power     | De loodbatterij is oplaadbaar en levert de correcte spanning voor de motorsturing. De LiPo batterij is een betere oplossing vooral door gewicht en beter behoud van capaciteit. De loodbatterij was beschikbaar en moest niet aangkocht worden | LiPo, Powerbank         |
+| Wireless Driver | We maken gebruik van een nRF24L01 omdat de simpelste manier van communicatie is, geen protocol en een simpele communicatie voorziet.                                                                                                           | Bluetooth, ZigBee, WiFi |
 
 
+#### Elektrisch schema   
+
+<img style="display:block; margin: auto;" src="../../img/example_schematic.png" alt="">
+<p style="text-align: center; font-weight: bold"> Voorbeeld: Elektrisch schema </p>
 
 
+### Software analyse
+
+Om onze software te analyseren is een top down methodologie aangeraden. Eerst
+moeten we zien wat onze datastromen zijn. Welke data word er genereerd in het
+systeem, wat voor data kunnen we injecteren voor het systeem. Deze vraag is
+cruciaal om parallel in team te kunnen werken. Dit moet in het begin bepaald
+worden zodat je als individu aan aparte blok kunt werken van het systeem.
+
+Als je bepaalt hebt wat voor data er in en uit een specifieke blok van het
+systeem komt, moet je ook nog bepalen in welk formaat dit gebeurt. Om dit
+succesvol te doen moet er ook rekening gehouden worden met de hardware
+restricties. JSON versturen over I²C met een Arduino is gedoemd om  te falen.
+
+Voor de starten geef je aan welke data er in en/of uit een specifieke blok komt
+van de hardware analyse. We geven dit weer in het volgend formaat: 
+
+#### Data in / Out
+
+| Blok         | Data In                               | Data Uit                              |
+| --           | --                                    | --                                    |
+| Motor Driver | 2x PWM Signaal                        | N.V.T.                                |
+| ATMega328P   | Configuratie instellingen, Sensordata | Configuratie instellingen, Sensordata |
+
+Bij de ATMega328p zien we dat de data uit gelijk is aan de data in. Hieruit
+kunnen we afleiden dan we data van ons systeem remote kunnen opvragen via de
+Wireless Driver. Deze functionaliteit moet in elk project zitten.
+
+**Maak de oplijsting voor de in en uit data van de voorgestelde oplossing in
+bovenstaand formaat en voeg deze toe aan de analyse**
+
+De machine die als mogelijke oplossing word aangebodendat we aanbieden kan in
+zich in verschillende states vinden en kan transitioneren tussen verschillende
+states. Om de embedded code in het project eenvoudig te kunnen debugen moeten
+we weten in welke state de code zicht bevindt. Om deze states te defineren
+maken we gebruik van een state diagram. Een voorbeeld hiervan kan je hieronder
+terugvinden. 
+
+<img style="display:block; margin: auto;" src="./deliverables/img/state_diagram.png" alt="">
+
+#### State diagram
+**Voeg aan de analyse een state diagram toe van de voorgestelde oplossing**
+*Een goed voorbeeld van een complexer state diagram kan je hier terugvinden:
+![State Diagram nRF24L01](http://m8ta.com/images/470_1.png)*
 
 
+#### Flowchart
+Om te wisselen tussen de verschillende states moeten we de flow hiervan beschrijven in een flowchart 
+
+<img style="display:block; margin: auto;" src="./deliverables/img/flow_chart.png" alt="">
+
+**Voeg in de analyse voor elke state transition een flowchart. Verduidelijk de
+nodige processen met flowchart waar nodig.**
+
+*Op deze manier bouwen we onze software modulair. Dit is een vereiste doorheen
+het project. Je werkt met meerde tijdens het project aan aparte blokken om dit
+mogelijk te maken moeten de interface tusssen de aparte blokken gekend zijn.*
+
+####  Mockup
+Als er een grafische interface nodig, dienen hiervoor mock ups gemaakt worden.
+<img style="display:block; margin: auto;" src="./deliverables/img/mockup.png" alt="">
+
+**Als er mock ups nodig zijn voeg deze toe aan de analyse**
+
+## Wat moet er allemaal in je analyse document
+
+- Probleemstelling
+- Abstract
+- Smart Object (Hardware Analyse)
+  - Hardware blokdiaram
+  - Specificatie tabel
+  - Argumentatie en alternatieven tabel
+- Software analyse
+  - Data In -en Outputs
+  - State diagram
+  - Flowchart
+  - Mockup (Indien GUI) 
+
+Het analyse document wordt in de documentatie repo geplaatst
 
 
