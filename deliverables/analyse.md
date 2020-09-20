@@ -29,7 +29,7 @@ te doen schrijf je een korte tekst van min 250 woorden en max 500 woorden. Dit
 komt neer op halve tot een volle bladzijde. Je ondersteund dit met een diagram
 van de algemene architectuur.
 
-<img style="display:block; margin: auto;" src="../../img/lorawan_architecture.jpg" alt="">
+<img style="display:block; margin: auto;" src="../img/lorawan_architecture.jpg" alt="">
 <p style="text-align: center; font-weight: bold"> Voorbeeld: het diagram van de algemene architectuur van LoRaWAN. </p>
 
 
@@ -82,7 +82,7 @@ Hieronder kan je een voorbeeld vinden van elk diagram.
 
 In het blokdiagram deel je het hardware probleem op in grote delen en kan je zien hoedat ze met elkaar gelinkt zijn.
 
-<img style="display:block; margin: auto;" src="../../img/basic_block.png" alt="">
+<img style="display:block; margin: auto;" src="../img/basic_block.png" alt="">
 <p style="text-align: center; font-weight: bold"> Voorbeeld: Blok diagram </p>
 
 
@@ -113,7 +113,7 @@ deze informatie in het volgend formaat:
 
 #### Elektrisch schema   
 
-<img style="display:block; margin: auto;" src="../../img/example_schematic.png" alt="">
+<img style="display:block; margin: auto;" src="../img/example_schematic.png" alt="">
 <p style="text-align: center; font-weight: bold"> Voorbeeld: Elektrisch schema </p>
 
 
@@ -154,7 +154,6 @@ we weten in welke state de code zicht bevindt. Om deze states te defineren
 maken we gebruik van een state diagram. Een voorbeeld hiervan kan je hieronder
 terugvinden. 
 
-<img style="display:block; margin: auto;" src="./deliverables/img/state_diagram.png" alt="">
 
 #### State diagram
 **Voeg aan de analyse een state diagram toe van de voorgestelde oplossing**
@@ -165,7 +164,7 @@ terugvinden.
 #### Flowchart
 Om te wisselen tussen de verschillende states moeten we de flow hiervan beschrijven in een flowchart 
 
-<img style="display:block; margin: auto;" src="./deliverables/img/flow_chart.png" alt="">
+<img style="display:block; margin: auto;" src="../img/flowchart.png" alt="">
 
 **Voeg in de analyse voor elke state transition een flowchart. Verduidelijk de
 nodige processen met flowchart waar nodig.**
@@ -176,7 +175,7 @@ mogelijk te maken moeten de interface tusssen de aparte blokken gekend zijn.*
 
 ####  Mockup
 Als er een grafische interface nodig, dienen hiervoor mock ups gemaakt worden.
-<img style="display:block; margin: auto;" src="./deliverables/img/mockup.png" alt="">
+<img style="display:block; margin: auto;" src="../img/mockup.png" alt="">
 
 **Als er mock ups nodig zijn voeg deze toe aan de analyse**
 
