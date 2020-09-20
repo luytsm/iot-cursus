@@ -11,16 +11,10 @@ viable product hebt. Schuif de integratie niet naar achter.
 
 ## Presentatie
 
-## Presteerde werk / rol
-In de beschrijving van de projecten staat de team samenstelling met de rollen.
-Elke student moet een rol hebben toegewezen gekregen. Elke student voorziet één
-slide met het gepresteerde werk.
+### Presteerde werk / student
+Elke student voorziet minimaal een slide waarmee hij/zij aantoont wat zijn bijdrage is geweest en licht deze zelf ite 
 
-## Burndown Chart 
-Voorzie voor elke afgelopen sprint een slide met de burndown chart en
-oplijsting van de afgewerkte stories met de toegewezen story points. 
-
-## Update van de analyse
+### Update van de analyse
 Update de relevante diagrammen en schema's van het project
 
 Mogelijk relevante schema's maar niet uitsluitende tot:
@@ -31,13 +25,12 @@ Mogelijk relevante schema's maar niet uitsluitende tot:
 - PCB Design
 - ...
 
-## Openstaande design vragen:
+### Openstaande design vragen:
 Geef ook nog een overzicht van de problemen in het project die nog een
 oplossing moeten krijgen. Dit gaat over een theoretische oplossing en niet de
-uitwerking
+uitwerking. Dit is de ideale kans om feedback te vragen
 
 ## Planning
 
-Voor zie een slide met de milestones voor het volgend project. Toon de planning
-voor de opkomende sprint
+Voor zie een slide met de planning t/m de volgende tussentijdse presentatie
 
