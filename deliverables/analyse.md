@@ -154,13 +154,13 @@ terugvinden.
 #### State diagram
 **Voeg aan de analyse een state diagram toe van de voorgestelde oplossing**
 *Een goed voorbeeld van een complexer state diagram kan je hier terugvinden:
-![State Diagram nRF24L01](http://m8ta.com/images/470_1.png)*
+![State Diagram nRF24L01](../img/state_diagram_advanced.png)*
 
 
 #### Flowchart
 Om te wisselen tussen de verschillende states moeten we de flow hiervan beschrijven in een flowchart 
 
-![Flowchart]()../img/flowchart.png)
+![Flowchart](../img/flowchart.png)
 
 **Voeg in de analyse voor elke state transition een flowchart. Verduidelijk de
 nodige processen met flowchart waar nodig.**
