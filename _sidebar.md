@@ -9,6 +9,7 @@
 * [Timing](/timing.md)
 * Deliverables
   * [Analyse](/deliverables/analyse.md)
+  * [Inventaris](/deliverables/inventaris.md)
   * [Tussentijdse presentaties](/deliverables/tussentijdse-presentaties.md)
   * [Finale presentatie](/deliverables/finale-presentatie.md)
   * [Documentatie Repo](/deliverables/code-repo.md)
