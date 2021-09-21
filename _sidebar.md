@@ -3,8 +3,8 @@
   * Environmental Monitoring
     * [Air Quality Sensor](/projecten/enmo/air-quality-sensor.md)
     * [Lab Farm](/projecten/enmo/lab_farm.md)
-  * Smart Robotics
-    * [MRR](/projecten/srob/mrr.md)
+    * [Smart City Tiles](/projecten/enmo/sct.md)
+  * [Smart Robotics](/projecten/srob/README.md)
 * [Algemene werking](/algemene-werking.md)
 * [Timing](/timing.md)
 * Deliverables
